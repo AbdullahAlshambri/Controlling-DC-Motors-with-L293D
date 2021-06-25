@@ -1,4 +1,4 @@
-# Controlling a H-Bridge Motor Driver Circuit With an Arduino
+# Controlling Two DC Motors with L293D using an Arduino
 
 
 This is a H-Bridge circuit Driver of type (L293D) used to control two dc motors via an Arduino. Additionally, the speed of the motors is controlled with a potentiometer. Also, a button is added to the circuit to provide a reverse movement of the motors while pressed.

@@ -6,7 +6,7 @@ This is a H-Bridge circuit Driver of type (L293D) used to control two dc motors 
 ## repository content:
 * Circuit Diagram 
 * Arduino code
-* Schematic of H bridge circuit 
+* a diagram of L293D
 
 ## More information:
 
